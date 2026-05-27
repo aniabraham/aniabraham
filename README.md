@@ -14,7 +14,7 @@
   - AWS EC2, Lambda, Elastic Container Service, Cloudwatch, Security Groups, S3, Cloud Formation, IAM
 
 ## 📫 How to reach me
-  - [LinkedIn](https://www.linkedin.com/in/anirudhabraham)
+  - [LinkedIn](https://www.linkedin.com/in/abrahamani)
 
 <!---
 aniabraham/aniabraham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
